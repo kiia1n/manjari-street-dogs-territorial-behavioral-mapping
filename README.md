@@ -1,17 +1,25 @@
-manjari-street-dogs-territorial-behavioral-mapping/
-├── README.md                          ← main page (very important)
-├── data/
-│   └── observations.csv                ← your cleaned field data
-├── notebooks/                          ← Jupyter notebooks (optional but nice)
-│   └── analysis.ipynb
-├── scripts/
-│   ├── data_cleaning.py
-│   ├── behavioural_analysis.py
-│   └── spatial_mapping.py
-├── maps/                               ← GIS maps / interactive maps
-│   ├── static_maps/
-│   └── interactive_map.html            ← Folium / Leaflet map
-├── figures/                            ← graphs you generated
-├── report/                             ← your project PDF (optional)
-│   └── Field_Project_Report.pdf
-└── LICENSE                             ← optional (MIT is fine)
+# Territorial and Behavioral Mapping of Street Dogs of Manjari, Pune
+
+**Field Project**  
+B.Sc. Zoology (T.Y.)  
+PDEA’s Annasaheb Magar Mahavidyalaya, Hadapsar, Pune  
+Academic Year: 2026–2027
+
+**Submitted by:** Ms. Kiran Bharat Makasare (Roll No. 3509)  
+**Under the guidance of:** Dr. Sharad V. Giramkar
+
+---
+
+## About the Project
+
+This project studies the **spatial distribution**, **behaviour**, **territorial interactions**, and **visible health conditions** of free-ranging street dogs (*Canis lupus familiaris*) in the residential area of Manjari, Pune.
+
+The study combines:
+- Field observations
+- Demographic & behavioural recording
+- GPS-based spatial mapping
+- Basic computational analysis
+
+---
+
+## Project Structure
