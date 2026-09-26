@@ -1,1 +1,8 @@
-
+Dog_Name,Sex,Lane,Ear_Cut,Ticks,Limping,Notes
+Sweety,Female,L1/L2,Yes,Yes,Minor,Repeated observations
+Cupcake,Male,L1/L2,Yes,Yes,No,Repeated observations
+Goldy,Male,L3,Yes,Yes,Yes,
+Swara,Female,L3,Yes,Yes,No,
+Brown,Male,L3,Yes,Yes,No,
+d3,Female,L4/5/6,,, ,
+d4,Male,L4/5/6,,, ,
